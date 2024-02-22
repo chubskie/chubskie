@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Chazz. 👋
+
+- I'm a 4th year BS Information Technology student from the University of the East - Manila, Philippines.
+- I'm currently the team leader of UE-CCSS Research & Development Unit.
 
 <!--
 **chubskie/chubskie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
